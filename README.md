@@ -1,2 +1,2 @@
 # ROS-MMS
-Micromouse build in ros, biolerplate, for trying out diffrent algorithms
+Micromouse build in ros, boilerplate, for trying out diffrent algorithms
